@@ -731,7 +731,7 @@ Use to opt-out of collecting the network operator name (carrier) and sim operato
 enableTCFDataCollection(shouldEnableTCFDataCollection: AFEnableTCFDataCollection) => Promise<void>
 ```
 
-Use to opt-in/out the automatic collection of consent data, for users who use a CMP. 
+Use to opt-in/out the automatic collection of consent data, for users who use a CMP.
 Flag value will be persisted between app sessions.
 
 | Param                               | Type                                                                            |
@@ -1231,20 +1231,20 @@ An af_purchase event with the relevant values will be automatically logged if th
 
 | Members                           | Value                                      |
 | --------------------------------- | ------------------------------------------ |
-| **`IRONSOURCE`**                  | <code>"ironsource"</code>                  |
-| **`APPLOVIN_MAX`**                | <code>"applovin_max"</code>                |
-| **`GOOGLE_ADMOB`**                | <code>"google_admob"</code>                |
-| **`FYBER`**                       | <code>"fyber"</code>                       |
-| **`APPODEAL`**                    | <code>"appodeal"</code>                    |
-| **`ADMOST`**                      | <code>"admost"</code>                      |
-| **`TOPON`**                       | <code>"topon"</code>                       |
-| **`TRADPLUS`**                    | <code>"tradplus"</code>                    |
-| **`YANDEX`**                      | <code>"yandex"</code>                      |
-| **`CHARTBOOST`**                  | <code>"chartboost"</code>                  |
-| **`UNITY`**                       | <code>"unity"</code>                       |
-| **`TOPON_PTE`**                   | <code>"topon_pte"</code>                   |
-| **`CUSTOM_MEDIATION`**            | <code>"custom_mediation"</code>            |
-| **`DIRECT_MONETIZATION_NETWORK`** | <code>"direct_monetization_network"</code> |
+| **`IRONSOURCE`**                  | <code>'ironsource'</code>                  |
+| **`APPLOVIN_MAX`**                | <code>'applovin_max'</code>                |
+| **`GOOGLE_ADMOB`**                | <code>'google_admob'</code>                |
+| **`FYBER`**                       | <code>'fyber'</code>                       |
+| **`APPODEAL`**                    | <code>'appodeal'</code>                    |
+| **`ADMOST`**                      | <code>'admost'</code>                      |
+| **`TOPON`**                       | <code>'topon'</code>                       |
+| **`TRADPLUS`**                    | <code>'tradplus'</code>                    |
+| **`YANDEX`**                      | <code>'yandex'</code>                      |
+| **`CHARTBOOST`**                  | <code>'chartboost'</code>                  |
+| **`UNITY`**                       | <code>'unity'</code>                       |
+| **`TOPON_PTE`**                   | <code>'topon_pte'</code>                   |
+| **`CUSTOM_MEDIATION`**            | <code>'custom_mediation'</code>            |
+| **`DIRECT_MONETIZATION_NETWORK`** | <code>'direct_monetization_network'</code> |
 
 
 #### AFPurchaseType
