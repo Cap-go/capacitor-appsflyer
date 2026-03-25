@@ -1,0 +1,10 @@
+{
+  "appId": "app.capgo.appsflyer.example",
+  "appName": "AppsFlyer Example",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
