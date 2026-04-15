@@ -10,6 +10,8 @@ AppsFlyer attribution and deep-linking support for Capacitor 8 apps, packaged in
 
 This package is based on the official AppsFlyer Capacitor plugin and the Capacitor 8 / SPM update work from [AppsFlyerSDK/appsflyer-capacitor-plugin#185](https://github.com/AppsFlyerSDK/appsflyer-capacitor-plugin/pull/185).
 
+Edit: the Capacitor 8 has been resolved you can now consider this fork deprecated.
+
 ## Documentation
 
 The most complete doc is available here: https://capgo.app/docs/plugins/appsflyer/
