@@ -1,6 +1,6 @@
 {
   "name": "@capgo/capacitor-appsflyer",
-  "version": "8.1.3",
+  "version": "8.1.4",
   "iosSdkVersion": "6.17.8",
   "androidSdkVersion": "6.17.5",
   "buildNumber": "1",
