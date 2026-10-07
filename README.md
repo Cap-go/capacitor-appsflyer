@@ -1,10 +1,28 @@
 # @capgo/capacitor-appsflyer
-<a href="https://capgo.app/"><img src="https://capgo.app/readme-banner.svg?repo=Cap-go/capacitor-appsflyer" alt="Capgo - Instant updates for Capacitor" /></a>
+
+Add AppsFlyer attribution, in-app event tracking and deep linking to your Capacitor app on iOS and Android. Based on the official AppsFlyer plugin, packaged with CocoaPods and Swift Package Manager support.
+
+<a href="https://capgo.app/?ref=plugin_appsflyer"><img src="https://capgo.app/readme-banner.svg?repo=Cap-go/capacitor-appsflyer" alt="Capgo - Instant updates for Capacitor" /></a>
 
 <div align="center">
-  <h2><a href="https://capgo.app/?ref=plugin_appsflyer"> ➡️ Get Instant updates for your App with Capgo</a></h2>
-  <h2><a href="https://capgo.app/consulting/?ref=plugin_appsflyer"> Missing a feature? We’ll build the plugin for you 💪</a></h2>
+  <p><b>Capgo</b>: open-source live updates for Ionic and Capacitor apps. Ship OTA fixes and features instantly, without waiting for app store review.</p>
+  <h2><a href="https://capgo.app/register/?ref=plugin_appsflyer">➡️ Get started for free</a></h2>
+  <p>14-day unlimited free trial. No credit card required</p>
+  <p><a href="https://capgo.app/consulting/?ref=plugin_appsflyer">Missing a feature? We'll build the plugin for you 💪</a></p>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cap-go/capacitor-appsflyer/main/assets/github-social-preview.png" alt="@capgo/capacitor-appsflyer for Capacitor apps" width="300" />
+</p>
+
+## Key features
+
+- **SDK start**: `initSDK()` and `startSDK()` start AppsFlyer, including manual start mode.
+- **Events and revenue**: `logEvent()`, `setCurrencyCode()` and `setCustomerUserId()` for in-app events and customer IDs.
+- **Deep linking**: OneLink support with `setAppInviteOneLink()`, `setOneLinkCustomDomain()`, `setResolveDeepLinkURLs()` and push deep link paths.
+- **Privacy controls**: `anonymizeUser()`, `stop()`, `setSharingFilterForPartners()` and opt-outs for SKAdNetwork, advertising IDs and Apple Search Ads.
+- **Device ID**: `getAppsFlyerUID()` returns the AppsFlyer install ID.
+- **Platforms**: iOS and Android. Uses the official AppsFlyer SDKs. No web implementation.
 
 AppsFlyer attribution and deep-linking support for Capacitor 8 apps, packaged in Capgo's plugin layout with CocoaPods and Swift Package Manager support.
 
