@@ -8,7 +8,6 @@ Add AppsFlyer attribution, in-app event tracking and deep linking to your Capaci
   <p><b>Capgo</b>: push fixes to your Capacitor users in minutes, build signed iOS and Android apps without a Mac, and roll back in one click.</p>
   <h2><a href="https://capgo.app/register/?ref=plugin_appsflyer">➡️ Get started for free</a></h2>
   <p>14-day unlimited free trial. No credit card required</p>
-  <p><a href="https://capgo.app/consulting/?ref=plugin_appsflyer">Missing a feature? We'll build the plugin for you 💪</a></p>
 </div>
 
 > 🤖 **Building with an AI coding agent?** Install [Capgo skills](https://capgo.app/skills/?ref=plugin_appsflyer) so Claude Code, Codex, Cursor, Copilot, or Gemini CLI know how to install and use `@capgo/capacitor-appsflyer` in your Capacitor app: `npx skills add Cap-go/capgo-skills`. Then ask your agent: *"Add @capgo/capacitor-appsflyer to my Capacitor app and wire it up."* [Agent setup guides](https://capgo.app/agents/?ref=plugin_appsflyer) · [Hosted MCP](https://capgo.app/docs/ai/mcp/?ref=plugin_appsflyer)
